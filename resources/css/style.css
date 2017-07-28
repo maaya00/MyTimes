@@ -8,7 +8,7 @@ header {
 .logo a {
   color: Aquamarine;
   text-align: center;
-  display: flex-start;
+  line-height: 48px;
 
 }
 
