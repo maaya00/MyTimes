@@ -5,7 +5,7 @@ header {
   font-weight: bold;
 }
 
-.logo {
+.logo p {
   display: flex;
   color: MediumAquamarine;
 }
