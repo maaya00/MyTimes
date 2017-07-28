@@ -5,8 +5,7 @@ header {
   font-weight: bold;
 }
 
-.logo p {
-  display: inline-block;
+.logo a {
   color: MediumAquamarine;
 }
 
