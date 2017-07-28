@@ -6,7 +6,7 @@ header {
 }
 
 .logo p {
-  display: flex;
+  display: inline-flex;
   color: MediumAquamarine;
 }
 
